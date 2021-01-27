@@ -315,7 +315,12 @@ nav.navbar {
 .navbar .navbar-brand {
 	font-size: 2rem;
 	color: #fff;
+	font-family: "Yusei Magic", sans-serif;
 }
+
+/* .navbar .navbar-brand img {
+	width: 50px;
+} */
 
 .navbar .navbar-brand:hover {
 	color: #fff;
@@ -323,6 +328,7 @@ nav.navbar {
 
 .navbar .navbar-nav .nav-link {
 	color: #fff;
+	font-family: "Yusei Magic", sans-serif;
 	transition: 300ms;
 }
 
