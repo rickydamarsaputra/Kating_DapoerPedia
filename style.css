@@ -156,7 +156,8 @@ footer {
 .jumbotron {
 	background: url(img/c4.jpg);
 	background-size: cover;
-	height: 600px;
+	/* height: 600px; */
+	height: 100vh;
 	text-align: center;
 }
 .jumbotron .container h1 {
